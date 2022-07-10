@@ -61,19 +61,17 @@ If you use this code for your research, please consider citing:
         number={},
         year={},
     }
-        
-```
-
-```
-    @article{Chuangji2020Balanced,
+       
+       @article{Chuangji2020Balanced,
         title={Balanced Joint Maximum Mean Discrepancy for Deep Transfer Learning},
         author={Chuangji Meng and Cunlu Xu and Qin Lei and Wei Su and Jinzhao Wu},
         journal={Analysis and Applications},
         number={2},
         year={2020},
     }
-        
+    
 ```
+
 
 ## Contact
 If you have any problem about our code, feel free to contact 
