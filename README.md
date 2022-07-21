@@ -54,21 +54,30 @@ If you want to change to other transfer tasks (e.g. `webcam` to `amazon`), you m
 ## Citation
 If you use this code for your research, please consider citing:
 ```
-    @article{Zhang2022Deep,
-        title={Deep transfer learning method based on automatic domain alignment and moment matching},
-        author={Jingui Zhang and Chuangji Meng and Cunlu Xua* and Jingyong Ma and Wei Su},
-        journal={},
-        number={},
-        year={},
-    }
+@Article{math10142531,
+AUTHOR = {Zhang, Jingui and Meng, Chuangji and Xu, Cunlu and Ma, Jingyong and Su, Wei},
+TITLE = {Deep Transfer Learning Method Based on Automatic Domain Alignment and Moment Matching},
+JOURNAL = {Mathematics},
+VOLUME = {10},
+YEAR = {2022},
+NUMBER = {14},
+ARTICLE-NUMBER = {2531},
+URL = {https://www.mdpi.com/2227-7390/10/14/2531},
+ISSN = {2227-7390},
+DOI = {10.3390/math10142531}
+}
+
        
-       @article{Chuangji2020Balanced,
-        title={Balanced Joint Maximum Mean Discrepancy for Deep Transfer Learning},
-        author={Chuangji Meng and Cunlu Xu and Qin Lei and Wei Su and Jinzhao Wu},
-        journal={Analysis and Applications},
-        number={2},
-        year={2020},
-    }
+@article{meng2021balanced,
+  title={Balanced joint maximum mean discrepancy for deep transfer learning},
+  author={Meng, Chuangji and Xu, Cunlu and Lei, Qin and Su, Wei and Wu, Jinzhao},
+  journal={Analysis and Applications},
+  volume={19},
+  number={03},
+  pages={491--508},
+  year={2021},
+  publisher={World Scientific}
+}
     
 ```
 
